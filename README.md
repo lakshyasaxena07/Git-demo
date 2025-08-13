@@ -1,2 +1,2 @@
 # Git-demo
-this is for learning git and gitbub
+this is for learning git and github
